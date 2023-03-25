@@ -93,9 +93,3 @@ curl https://raw.githubusercontent.com/osala-eng/alx_tools/master/crackme3.sh -o
 
 
 ## Repo
-https://github.com/osala-eng/alx_tools
-
-
-Author:
-
-Jashon Osala c 2022
